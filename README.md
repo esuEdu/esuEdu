@@ -22,5 +22,4 @@ I'm learning SwiftUI, UIKit, C++
  
 <div> 
 
-![snake gif](https://github.com/esuEdu/esuEdu/blob/output/github-contribution-grid-snake.gif) 
 </div>
