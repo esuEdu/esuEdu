@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B2A97&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Eduardo" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi 👋! My name is Eduardo</h1>
 
 ###
 
