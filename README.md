@@ -2,16 +2,18 @@
 
 ###
 
-<h3 align="left"> About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left"> I’m currently working as an iOS Developer at CroSoften, building high-performance, scalable apps using Swift, UIKit, and SwiftUI. I’ve published multiple apps during my time at the Apple Developer Academy, focusing on user experience, agile development, and innovation.<br><br> I'm currently diving deeper into backend development with Go and Java, and exploring cloud computing with AWS<br><br> I’m passionate about clean architecture (VIPER, MVVM, MVC), automation, and building end-to-end solutions—from mobile frontend to backend services in the cloud.<br><br>⚡ In my free time, I like to contribute to personal projects, explore new dev tools, and level up my skills in cloud infrastructure, devops, and system design.</p>
+<p align="left">🔭 I’m currently working as an iOS Developer at CroSoften, building high-performance, scalable apps using Swift, UIKit, and SwiftUI. I’ve published multiple apps during my time at the Apple Developer Academy, focusing on user experience, agile development, and innovation.<br><br>📚 I'm currently diving deeper into backend development with Go and Java, and exploring cloud computing with AWS<br><br>🛠️ I’m passionate about clean architecture (VIPER, MVVM, MVC), automation, and building end-to-end solutions—from mobile frontend to backend services in the cloud.<br><br>⚡ In my free time, I like to contribute to personal projects, explore new dev tools, and level up my skills in cloud infrastructure, devops, and system design.</p>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-regis-vieira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
 </div>
