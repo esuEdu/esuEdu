@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">🔭 I’m currently working as an iOS Developer at CroSoften, building high-performance, scalable apps using Swift, UIKit, and SwiftUI. I’ve published multiple apps during my time at the Apple Developer Academy, focusing on user experience, agile development, and innovation.<br><br>📚 I'm currently diving deeper into backend development with Go and Java, and exploring cloud computing with AWS<br><br>🛠️ I’m passionate about clean architecture (VIPER, MVVM, MVC), automation, and building end-to-end solutions—from mobile frontend to backend services in the cloud.<br><br>⚡ In my free time, I like to contribute to personal projects, explore new dev tools, and level up my skills in cloud infrastructure, devops, and system design.</p>
+<p align="left"> I’m currently working as an iOS Developer at CroSoften, building high-performance, scalable apps using Swift, UIKit, and SwiftUI. I’ve published multiple apps during my time at the Apple Developer Academy, focusing on user experience, agile development, and innovation.<br><br> I'm currently diving deeper into backend development with Go and Java, and exploring cloud computing with AWS<br><br> I’m passionate about clean architecture (VIPER, MVVM, MVC), automation, and building end-to-end solutions—from mobile frontend to backend services in the cloud.<br><br>⚡ In my free time, I like to contribute to personal projects, explore new dev tools, and level up my skills in cloud infrastructure, devops, and system design.</p>
 
 ###
 
