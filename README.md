@@ -6,7 +6,16 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as an iOS Developer at CroSoften, building high-performance, scalable apps using Swift, UIKit, and SwiftUI. I’ve published multiple apps during my time at the Apple Developer Academy, focusing on user experience, agile development, and innovation.<br><br>📚 I'm currently diving deeper into backend development with Go and Java, and exploring cloud computing with AWS<br><br>🛠️ I’m passionate about clean architecture (VIPER, MVVM, MVC), automation, and building end-to-end solutions—from mobile frontend to backend services in the cloud.<br><br>⚡ In my free time, I like to contribute to personal projects, explore new dev tools, and level up my skills in cloud infrastructure, devops, and system design.</p>
+<p align="left">🔭 Software engineer focused on backend and cloud, with experience in API development, infrastructure automation, and systems integration. I work with Go, Java, AWS, Docker, Terraform, and relational and NoSQL databases, always striving to deliver efficient, scalable, and secure solutions.
+
+I have experience in agile environments, working in multidisciplinary teams, and participating in all stages of the development cycle, from conception to delivery and maintenance. I also have experience with frontend and mobile, using React and React Native, in addition to UX/UI knowledge acquired through training programs.
+
+Main skills:
+
+Backend: Go, Java, PostgreSQL, RESTful APIs, microservices
+Cloud & DevOps: AWS, Docker, Terraform, CI/CD, GitHub Actions
+Frontend/Mobile: React, React Native, Swift, SwiftUI
+Others: Agile/Scrum, automated testing, versioning with Git
 
 ###
 
