@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Software engineer focused on backend and cloud, with experience in API development, infrastructure automation, and systems integration. I work with Go, Java, AWS, Docker, Terraform, and relational and NoSQL databases, always striving to deliver efficient, scalable, and secure solutions.
+<p align="left">Software engineer focused on backend and cloud, with experience in API development, infrastructure automation, and systems integration. I work with Go, Java, AWS, Docker, Terraform, and relational and NoSQL databases, always striving to deliver efficient, scalable, and secure solutions.
 
 I have experience in agile environments, working in multidisciplinary teams, and participating in all stages of the development cycle, from conception to delivery and maintenance. I also have experience with frontend and mobile, using React and React Native, in addition to UX/UI knowledge acquired through training programs.
 
