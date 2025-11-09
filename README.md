@@ -1,69 +1,69 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+## 👋 Hi there, I'm **Eduardo Regis Vieira**
 
-###
+### 🧑‍💻 Backend & Cloud Software Engineer | Go | Node.js | AWS | Terraform | Docker
 
-<h3 align="left">👨‍💻 About Me</h3>
+Sou engenheiro de software com foco em **backend e cloud**, atuando no desenvolvimento de **APIs escaláveis**, **automação de infraestrutura** e **integração de sistemas distribuídos**.  
+Trabalho principalmente com **Go**, **Node.js** e **AWS**, aplicando boas práticas de arquitetura, segurança e desempenho.
 
-###
+Tenho certificação **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/)** e experiência com **Terraform**, **Serverless Framework**, **AWS SAM**, **Docker** e **CI/CD** utilizando **GitHub Actions**.  
+Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observabilidade em ambientes cloud**.
 
-<p align="left">
-I'm a software engineer focused on backend and cloud development, with experience in API design, infrastructure automation, and systems integration.  
-I primarily work with **Go**, **Java**, **AWS**, **Docker**, **Terraform**, and both **relational** and **NoSQL** databases — always aiming to build efficient, scalable, and secure solutions.
-</p>
+---
 
-<p align="left">
-I have hands-on experience in **agile environments**, collaborating with multidisciplinary teams and participating in every stage of the development lifecycle — from conception to deployment and maintenance.  
-I also have experience with **frontend** and **mobile** development using **React** and **React Native**, plus **UX/UI** training that helps me build user-friendly interfaces.
-</p>
+### 🧩 Tech Stack
 
-###
+#### 💻 Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-<h4 align="left">💡 Main Skills</h4>
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/AWS%20SAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- **Backend:** Go, Java, PostgreSQL, RESTful APIs, Microservices  
-- **Cloud & DevOps:** AWS, Docker, Terraform, CI/CD, GitHub Actions  
-- **Frontend & Mobile:** React, React Native, Swift, SwiftUI  
-- **Others:** Agile/Scrum, Automated Testing, Git Version Control  
+#### 🧠 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=20232A)
 
-###
+#### ⚙️ Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=flat&logo=scrumalliance&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-6DB33F?style=flat&logo=jest&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-FF4088?style=flat&logo=figma&logoColor=white)
 
-<h3 align="left">🌐 Connect with Me</h3>
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-regis-vieira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-</div>
+### 🚀 Featured Projects
 
-###
+- 🩺 **[Lumi HealthTech](#)** — App móvel para acompanhamento de gestantes, com backend em Go e infraestrutura AWS.  
+- ☁️ **[Infra-as-Code AWS](#)** — Template Terraform para criação de ambientes escaláveis com S3, Lambda e API Gateway.  
+- 🔐 **[Auth Service Go](#)** — Serviço de autenticação em Go com JWT e integração com AWS Cognito.
 
-<h3 align="left">🔥 My Stats</h3>
+*(Substitua os links acima pelos seus repositórios quando quiser.)*
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=esuEdu&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esuEdu&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top languages" />
-</div>
+---
 
-###
+### 🧠 About Me
+- 🧩 Gosto de resolver problemas com código limpo e automação.  
+- ☁️ Interesses: backend architecture, infra as code, cloud security e observabilidade.  
+- 📘 Atualmente estudando **Kubernetes**, **Prometheus** e **Grafana**.  
 
-<h3 align="left">🛠 Languages & Tools</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo" />
-</div>
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-regis-vieira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
+
+---
+
+### ⚡ GitHub Stats
+
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardovieirayt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovieirayt&layout=compact&theme=tokyonight)
