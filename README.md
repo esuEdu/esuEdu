@@ -13,9 +13,16 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
 
 ## ⚡ GitHub Stats
-
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esuEdu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esuEdu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardovieirayt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardovieirayt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&card_width=400" 
+    height="180em"
+  />
+</p>
 
 ## 🧩 Tech Stack
 
