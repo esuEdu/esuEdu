@@ -15,11 +15,11 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 ## ⚡ GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardovieirayt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=esuEdu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     height="180em"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardovieirayt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&card_width=400" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=esuEdu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&card_width=400" 
     height="180em"
   />
 </p>
