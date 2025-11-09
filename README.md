@@ -8,8 +8,6 @@ Trabalho principalmente com **Go**, **Node.js** e **AWS**, aplicando boas práti
 Tenho certificação **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/)** e experiência com **Terraform**, **Serverless Framework**, **AWS SAM**, **Docker** e **CI/CD** utilizando **GitHub Actions**.  
 Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observabilidade em ambientes cloud**.
 
----
-
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-regis-vieira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
