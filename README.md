@@ -40,23 +40,6 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 
 ---
 
-### 🚀 Featured Projects
-
-- 🩺 **[Lumi HealthTech](#)** — App móvel para acompanhamento de gestantes, com backend em Go e infraestrutura AWS.  
-- ☁️ **[Infra-as-Code AWS](#)** — Template Terraform para criação de ambientes escaláveis com S3, Lambda e API Gateway.  
-- 🔐 **[Auth Service Go](#)** — Serviço de autenticação em Go com JWT e integração com AWS Cognito.
-
-*(Substitua os links acima pelos seus repositórios quando quiser.)*
-
----
-
-### 🧠 About Me
-- 🧩 Gosto de resolver problemas com código limpo e automação.  
-- ☁️ Interesses: backend architecture, infra as code, cloud security e observabilidade.  
-- 📘 Atualmente estudando **Kubernetes**, **Prometheus** e **Grafana**.  
-
----
-
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-regis-vieira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
