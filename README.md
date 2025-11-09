@@ -12,16 +12,12 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-regis-vieira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
 
---
-
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esuEdu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esuEdu&layout=compact&theme=tokyonight)
 
----
-
-### 🧩 Tech Stack
+## 🧩 Tech Stack
 
 #### 💻 Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
