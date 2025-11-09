@@ -48,5 +48,5 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 
 ### ⚡ GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardovieirayt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovieirayt&layout=compact&theme=tokyonight)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esuEdu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esuEdu&layout=compact&theme=tokyonight)
