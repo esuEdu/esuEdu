@@ -12,17 +12,11 @@ Atualmente, estou aprofundando meus conhecimentos em **Kubernetes** e **observab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-regis-vieira)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardovieirayt@gmail.com)
 
-## ⚡ GitHub Stats
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esuEdu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esuEdu&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🧩 Tech Stack
 
 #### 💻 Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 #### ☁️ Cloud & DevOps
